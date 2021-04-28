@@ -1,0 +1,21 @@
+*body{
+    box-sizing: border-box;
+    padding: 0px;
+}
+
+.container{
+height: 500px;
+width: 500px;
+border: 2px solid black;
+margin-left: 35%;
+margin-top: 5%;
+margin-bottom: 5%;
+background-color: black;
+}
+.container .inside-box{
+    height: 60px;
+    width: 60px;
+  background-color: red;
+    border: 2px solid black;
+    text-align: center;
+    }
